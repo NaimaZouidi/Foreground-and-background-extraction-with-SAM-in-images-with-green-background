@@ -1,1 +1,1 @@
-# Image-segmentation-green-background
+# Foreground and background extraction in images with green background
